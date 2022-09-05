@@ -112,5 +112,5 @@ class Persona{
     }
 }
 
-agenda = new Agenda();
+var agenda = new Agenda();
 agenda.menu();
